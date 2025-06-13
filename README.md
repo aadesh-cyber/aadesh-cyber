@@ -1,16 +1,23 @@
-## Hi there 👋
+🔐 **Cybersecurity Graduate | Threat Detection | Human-AI Collaboration | GRC & Beyond**
 
-<!--
-**aadesh-cyber/aadesh-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a cybersecurity graduate with a Master’s and hands-on experience across SIEM, SOC operations, and threat detection platforms like Splunk and TryHackMe.
 
-Here are some ideas to get you started:
+As AI reshapes traditional Tier-1 SOC and compliance roles, 
+I’m actively building future-resilient skills — like **threat hunting**, **governance & risk management**, and **AI compliance**. 
+I also blog regularly about cybersecurity strategy, ethics, and human-AI collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Certified in **AWS Solutions Architecture**, **CompTIA Security+**, and **CCNA**, with practical exposure through:
+- Network Engineer 
+- Capture the Flag (CTF) events
+- Real-world labs & risk analysis
+- Policy writing & ISO/NIST framework learning
+
+---
+
+## 🔧 Tools & Skills
+
+- SIEM: Splunk, ELK, TryHackMe, Wireshark  
+- Frameworks: ISO 27001, NIST CSF, GDPR, AI Act  
+- Cloud: AWS, IAM, EDR tools  
+- Soft Skills: Policy writing, cyber ethics, technical communication  
+- AI in Cyber: Darktrace, anomaly detection models, AI Act alignment  
